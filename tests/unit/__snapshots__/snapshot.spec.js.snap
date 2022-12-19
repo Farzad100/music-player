@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot songItem.vue renders correctly 1`] = `
+<li
+  class="flex justify-between items-center p-3 pl-6 cursor-pointer transition duration-300 hover:bg-gray-50 snapshot song-id-abc"
+>
+  <div>
+    <router-link-stub
+      class="font-bold block text-gray-600"
+      custom="false"
+      to="[object Object]"
+    />
+    <span
+      class="text-gray-500 text-sm"
+    />
+  </div>
+  <!-- &lt;div class="text-gray-600 text-lg"&gt;
+              &lt;router-link custom
+              :to="{ name: 'song', params: { id: song.id }, hash: '#comments'}"
+              v-slot="{ navigate }"&gt;
+                &lt;span class="comments" @click="navigate"&gt;
+                  &lt;i class="fa fa-comments text-gray-600"&gt;&lt;/i&gt;
+                  {{ comment_count }}
+                &lt;/span&gt;
+              &lt;/router-link&gt;
+            &lt;/div&gt; -->
+</li>
+`;

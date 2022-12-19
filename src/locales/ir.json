@@ -1,0 +1,13 @@
+{
+  "listen": "سلام، به موزیک مورد علاقه خودتون گوش بدید",
+  "manage": {
+    "my_songs": "موزیک های من"
+  },
+  "register": {
+    "TOS": "",
+    "accept": ""
+  },
+  "song": {
+    "comment_count": "{count} پیام"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "listen": "Listen to Great Music!",
+  "manage": {
+    "my_songs": "My songs"
+  },
+  "register": {
+    "TOS": "Terms of service",
+    "accept": "I accept music's {0}"
+  },
+  "song": {
+    "comment_count": "no comment | 1 comment | {count} comments"
+  }
+}
